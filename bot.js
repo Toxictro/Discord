@@ -122,4 +122,4 @@ client.on('message', (message)=>{
     }
 })
 
-        client.login("NDg1MjA1MDM3NjM1ODYyNTMw.Dmv__A.SFgXJESVneVQHinMjkE2oJdnsEM");
+        client.login("process.env.token");
